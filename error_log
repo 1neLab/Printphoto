@@ -1,0 +1,5 @@
+[07-Nov-2024 06:00:27 UTC] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home/onelnkme/hypeinfo.site/image-to-a4/upload.php:16
+Stack trace:
+#0 /home/onelnkme/hypeinfo.site/image-to-a4/upload.php(16): getimagesize()
+#1 {main}
+  thrown in /home/onelnkme/hypeinfo.site/image-to-a4/upload.php on line 16
